@@ -8,4 +8,4 @@
 grayskullx/grayskullx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm a former game dev technical artist turned cybersecurity analyst. I'm a protector, critical thinker, and problem solver. I enjoy solving mysteries, puzzles, and catching bad people.
+In a former life I was a systems administrator for a web hosting company. In mid 2000's made the decision to chase my goal of becoming a game developer. Over the last decaded I had the opportunity to work on many awesome projects and awarded for my hard work and dedication to my craft. In 2020 I felt it was time for a new challenge and set my goals on becoming an analyst where I can use my skill sets and love for technology to protect and defend agaist cyber threats.
